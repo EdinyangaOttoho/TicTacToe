@@ -20,8 +20,6 @@ readInput = () => {
         });
     });
 }
-
-// debug this function 
 isGameWon = () => {
     //checkrows
     for (let i = 0; i < board.length; i++) {
