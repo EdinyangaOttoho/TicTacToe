@@ -7,6 +7,6 @@ This requires just Node.JS installed on your machine
 ## Usage
 Just direct your terminal to the directory where code.js lies and run the command
 
-```js
+```bat
   node code.js
 ```
